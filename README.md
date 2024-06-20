@@ -6,9 +6,9 @@ This repository showcases the database module assignment completed as part of th
 该仓库展示了完成CSF文凭课程的数据库模块作业。项目涉及设计一个数据库，以支持一个假设公司NP40书籍租赁的业务流程。作业展示了从概念数据建模到物理数据库实现以及SQL查询编写的整个过程。
 
 ## Case Study / 案例研究
-For detailed business requirements and operational context, refer to the [Case Study](CASE_STUDY.md).
+For detailed business requirements and operational context, refer to the [Case Study](Case_Scenario.pdf).
 
-有关详细的业务需求和操作背景，请参阅[案例研究](CASE_STUDY.md)。
+有关详细的业务需求和操作背景，请参阅[案例研究](Case_Scenario.pdf)。
 
 ## ER Diagram / ER图
 The ER diagram representing the final conceptual design is available in the root directory as `ER_Diagram.pdf`.
